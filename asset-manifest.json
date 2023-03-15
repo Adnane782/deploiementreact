@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/deploiementapplireact/static/css/main.073c9b0a.css",
+    "main.js": "/deploiementapplireact/static/js/main.7c46c8c7.js",
+    "static/js/787.b701888c.chunk.js": "/deploiementapplireact/static/js/787.b701888c.chunk.js",
+    "static/media/logo.svg": "/deploiementapplireact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/blog-post.1.md": "/deploiementapplireact/static/media/blog-post.1.0c315da1f0a7af641a3a.md",
+    "static/media/blog-post.2.md": "/deploiementapplireact/static/media/blog-post.2.bec33d7c8bf27858ce0c.md",
+    "index.html": "/deploiementapplireact/index.html",
+    "static/media/blog-post.3.md": "/deploiementapplireact/static/media/blog-post.3.0a90113db17c3659cca0.md",
+    "main.073c9b0a.css.map": "/deploiementapplireact/static/css/main.073c9b0a.css.map",
+    "main.7c46c8c7.js.map": "/deploiementapplireact/static/js/main.7c46c8c7.js.map",
+    "787.b701888c.chunk.js.map": "/deploiementapplireact/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7c46c8c7.js"
+  ]
+}
